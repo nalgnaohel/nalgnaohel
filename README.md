@@ -6,7 +6,6 @@ I'm [nalgnaohel](https://github.com/nalgnaohel)
 - ✨ I'm currently learning Computer Science, and am interested in Software Engineering related topics
 - ⚡ Fun fact: I'm not sure this is a fun fact, but my account is just my full name written backward, so I don't even know how to read it =))
 
-(Why am I creating this at 4 a.m. Friday 13 :( )
 <!--
 ![nalgnaohel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalgnaohel&show_icons=true&theme=radical)
 
